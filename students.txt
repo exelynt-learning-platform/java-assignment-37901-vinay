@@ -1,0 +1,10 @@
+=================================================================
+                 STUDENT ACADEMIC RECORDS DATABASE               
+=================================================================
+ID       | Student Name           | Department           | GPA   
+-----------------------------------------------------------------
+101      | Vinay Madarkhandi      | Computer Science     |   3.95
+102      | Alice Johnson          | Data Engineering     |   3.88
+103      | Bob Smith              | Information Security |   3.65
+104      | Diana Prince           | Artificial Intelligence |   4.00
+=================================================================
