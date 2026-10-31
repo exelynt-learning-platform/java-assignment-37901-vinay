@@ -1,0 +1,3 @@
+Hello from data.txt!
+This file is created and inspected using the java.io.File class.
+File operations include verifying existence, paths, and permissions.
