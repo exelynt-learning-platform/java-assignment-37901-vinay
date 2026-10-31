@@ -1,0 +1,12 @@
+# Bytecode and build artifacts
+*.class
+target/
+
+# Database files
+*.db
+*.sqlite
+
+# Sensitive configuration files and credentials
+db.properties
+config.properties
+.env
